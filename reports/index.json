@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-202230-wzg8",
+      "title": "Emo Radee, Salazierthaous",
+      "commanders": [
+        "Emo Radee",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-06T00:22:30.000Z",
+      "dateEnd": "2026-08-06T01:59:53.000Z",
+      "dateLabel": "8/5/2026, 8:22:30 PM - 8/5/2026, 9:59:53 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260805-202230-wzg8",
+      "summary": {
+        "borderlandsPct": 0.4,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260805-202230-z2av",
       "title": "Emo Radee, Salazierthaous",
       "commanders": [
