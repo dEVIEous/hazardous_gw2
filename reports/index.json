@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260811-210818-z7h8",
+      "title": "Vashot Warrior",
+      "commanders": [
+        "Vashot Warrior"
+      ],
+      "guild": {
+        "id": "3C8FE779-F752-4856-AEBE-6AABE18A6C97",
+        "name": "Nightmares Bane",
+        "tag": "BANE"
+      },
+      "dateStart": "2026-08-12T01:08:18.000Z",
+      "dateEnd": "2026-08-12T03:00:37.000Z",
+      "dateLabel": "8/11/2026, 9:08:18 PM - 8/11/2026, 11:00:37 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260811-210818-z7h8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260811-210818-7hkx",
       "title": "Vashot Warrior",
       "commanders": [
