@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-202844-rep5",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-08-13T00:28:44.000Z",
+      "dateEnd": "2026-08-13T01:35:49.000Z",
+      "dateLabel": "8/12/2026, 8:28:44 PM - 8/12/2026, 9:35:49 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260812-202844-rep5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260811-210818-z7h8",
       "title": "Vashot Warrior",
       "commanders": [
