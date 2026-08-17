@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-202622-plkr",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-17T00:26:22.000Z",
+      "dateEnd": "2026-08-17T01:17:51.000Z",
+      "dateLabel": "8/16/2026, 8:26:22 PM - 8/16/2026, 9:17:51 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260816-202622-plkr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260812-202844-rep5",
       "title": "R A D E E",
       "commanders": [
