@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-201107-pi9z",
+      "title": "Salazierthaous",
+      "commanders": [
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-25T00:11:07.000Z",
+      "dateEnd": "2026-08-25T01:02:37.818Z",
+      "dateLabel": "8/24/2026, 8:11:07 PM - 8/24/2026, 9:02:37 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260824-201107-pi9z",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260817-201746-vfdd",
       "title": "Evo Cuddlebunny",
       "commanders": [
