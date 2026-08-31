@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-201417-0o6v",
+      "title": "Salazierthaous",
+      "commanders": [
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-31T00:14:17.000Z",
+      "dateEnd": "2026-08-31T01:30:14.693Z",
+      "dateLabel": "8/30/2026, 8:14:17 PM - 8/30/2026, 9:30:14 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260830-201417-0o6v",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260826-201346-rbqt",
       "title": "Ineriouse Sly, R A D E E",
       "commanders": [
