@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-204121-qix4",
+      "title": "Papa Akram, R A D E E",
+      "commanders": [
+        "Papa Akram",
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-01T00:41:21.000Z",
+      "dateEnd": "2026-09-01T01:31:44.971Z",
+      "dateLabel": "8/31/2026, 8:41:21 PM - 8/31/2026, 9:31:44 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260831-204121-qix4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260830-201417-0o6v",
       "title": "Salazierthaous",
       "commanders": [
