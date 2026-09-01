@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-214842-34ml",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-01T01:48:42.000Z",
+      "dateEnd": "2026-09-01T02:31:48.509Z",
+      "dateLabel": "8/31/2026, 9:48:42 PM - 8/31/2026, 10:31:48 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260831-214842-34ml",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260831-204121-qix4",
       "title": "Papa Akram, R A D E E",
       "commanders": [
