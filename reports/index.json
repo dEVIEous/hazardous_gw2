@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260902-200116-haer",
+      "title": "Salazierthaous",
+      "commanders": [
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-03T00:01:16.000Z",
+      "dateEnd": "2026-09-03T01:09:05.889Z",
+      "dateLabel": "9/2/2026, 8:01:16 PM - 9/2/2026, 9:09:05 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260902-200116-haer",
+      "summary": {
+        "borderlandsPct": 0.9333333333333333,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260831-214842-34ml",
       "title": "R A D E E",
       "commanders": [
