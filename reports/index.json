@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-192350-o1ic",
+      "title": "Diamond Knight",
+      "commanders": [
+        "Diamond Knight"
+      ],
+      "guild": {
+        "id": "1CD6439B-AF95-F011-BB16-02A062328AE3",
+        "name": "U Fkn",
+        "tag": "hefr"
+      },
+      "dateStart": "2026-09-05T02:23:50.000Z",
+      "dateEnd": "2026-09-05T03:10:25.883Z",
+      "dateLabel": "9/4/2026, 7:23:50 PM - 9/4/2026, 8:10:25 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260904-192350-o1ic",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260902-200116-haer",
       "title": "Salazierthaous",
       "commanders": [
