@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-202319-906m",
+      "title": "Valencious Et Moria",
+      "commanders": [
+        "Valencious Et Moria"
+      ],
+      "guild": {
+        "id": "3E763D64-D8A3-F111-BB23-1221ED2FB4CF",
+        "name": "Gangle",
+        "tag": "GOB"
+      },
+      "dateStart": "2026-09-08T00:23:19.000Z",
+      "dateEnd": "2026-09-08T01:06:58.931Z",
+      "dateLabel": "9/7/2026, 8:23:19 PM - 9/7/2026, 9:06:58 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260907-202319-906m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260904-192350-o1ic",
       "title": "Diamond Knight",
       "commanders": [
