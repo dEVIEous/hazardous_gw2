@@ -4,6 +4,50 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-201227-b56f",
+      "title": "R A D E E, Valencious Et Moria",
+      "commanders": [
+        "R A D E E",
+        "Valencious Et Moria"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-10T00:12:27.000Z",
+      "dateEnd": "2026-09-10T01:00:41.465Z",
+      "dateLabel": "9/9/2026, 8:12:27 PM - 9/9/2026, 9:00:41 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260909-201227-b56f",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260907-202319-906m",
       "title": "Valencious Et Moria",
       "commanders": [
