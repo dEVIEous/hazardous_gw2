@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-202004-9cpo",
+      "title": "Pycachu",
+      "commanders": [
+        "Pycachu"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-09-11T00:20:04.000Z",
+      "dateEnd": "2026-09-11T01:18:02.147Z",
+      "dateLabel": "9/10/2026, 8:20:04 PM - 9/10/2026, 9:18:02 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260910-202004-9cpo",
+      "summary": {
+        "borderlandsPct": 0.8571428571428571,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260909-201227-b56f",
       "title": "R A D E E, Valencious Et Moria",
       "commanders": [
