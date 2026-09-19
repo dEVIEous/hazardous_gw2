@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-221637-vy7v",
+      "title": "Papa Akram",
+      "commanders": [
+        "Papa Akram"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-19T02:16:37.000Z",
+      "dateEnd": "2026-09-19T03:01:36.165Z",
+      "dateLabel": "9/18/2026, 10:16:37 PM - 9/18/2026, 11:01:36 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260918-221637-vy7v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260918-231536-tgxh",
       "title": "General Po Panda",
       "commanders": [
