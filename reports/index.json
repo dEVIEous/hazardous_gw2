@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-231536-tgxh",
+      "title": "General Po Panda",
+      "commanders": [
+        "General Po Panda"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-09-19T03:15:36.000Z",
+      "dateEnd": "2026-09-19T04:02:44.028Z",
+      "dateLabel": "9/18/2026, 11:15:36 PM - 9/19/2026, 12:02:44 AM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260918-231536-tgxh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260916-200646-njv4",
       "title": "R A D E E, Salazierthaous",
       "commanders": [
