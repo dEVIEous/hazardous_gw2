@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260920-201835-pyge",
+      "title": "Salazierthaous",
+      "commanders": [
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-21T00:18:35.000Z",
+      "dateEnd": "2026-09-21T01:53:20.787Z",
+      "dateLabel": "9/20/2026, 8:18:35 PM - 9/20/2026, 9:53:20 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260920-201835-pyge",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260918-231011-6c8p",
       "title": "General Po Panda",
       "commanders": [
