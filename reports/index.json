@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260921-200810-o9v6",
+      "title": "Papa Akram, Salazierthaous",
+      "commanders": [
+        "Papa Akram",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-22T00:08:10.000Z",
+      "dateEnd": "2026-09-22T00:44:24.054Z",
+      "dateLabel": "9/21/2026, 8:08:10 PM - 9/21/2026, 8:44:24 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260921-200810-o9v6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260920-201835-pyge",
       "title": "Salazierthaous",
       "commanders": [
