@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260922-221939-r0k0",
+      "title": "Diamond Raider",
+      "commanders": [
+        "Diamond Raider"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-09-23T02:19:39.000Z",
+      "dateEnd": "2026-09-23T03:03:06.494Z",
+      "dateLabel": "9/22/2026, 10:19:39 PM - 9/22/2026, 11:03:06 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260922-221939-r0k0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260922-211113-88tp",
       "title": "Ineriouse Sly",
       "commanders": [
