@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260923-200859-l7c6",
+      "title": "R A D E E, Salazierthaous",
+      "commanders": [
+        "R A D E E",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-24T00:08:59.000Z",
+      "dateEnd": "2026-09-24T00:58:37.932Z",
+      "dateLabel": "9/23/2026, 8:08:59 PM - 9/23/2026, 8:58:37 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260923-200859-l7c6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260923-200859-zmrg",
       "title": "R A D E E, Salazierthaous",
       "commanders": [
