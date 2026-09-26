@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-230950-orti",
+      "title": "Papa Akram",
+      "commanders": [
+        "Papa Akram"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-26T03:09:50.000Z",
+      "dateEnd": "2026-09-26T03:55:16.141Z",
+      "dateLabel": "9/25/2026, 11:09:50 PM - 9/25/2026, 11:55:16 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260925-230950-orti",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260925-221657-02fn",
       "title": "Jokajo, Whip It Good",
       "commanders": [
