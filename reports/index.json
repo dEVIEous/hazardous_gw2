@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260925-231451-ek6d",
+      "title": "Ineriouse Sly",
+      "commanders": [
+        "Ineriouse Sly"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-26T03:14:51.000Z",
+      "dateEnd": "2026-09-26T04:00:48.361Z",
+      "dateLabel": "9/25/2026, 11:14:51 PM - 9/26/2026, 12:00:48 AM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260925-231451-ek6d",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260925-230950-orti",
       "title": "Papa Akram",
       "commanders": [
