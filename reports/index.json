@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-211135-2toc",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-28T01:11:35.000Z",
+      "dateEnd": "2026-09-28T01:55:53.826Z",
+      "dateLabel": "9/27/2026, 9:11:35 PM - 9/27/2026, 9:55:53 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260927-211135-2toc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260927-203518-53gt",
       "title": "R A D E E",
       "commanders": [
