@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-204922-ur6q",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-29T00:49:22.000Z",
+      "dateEnd": "2026-09-29T01:45:02.305Z",
+      "dateLabel": "9/28/2026, 8:49:22 PM - 9/28/2026, 9:45:02 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20260928-204922-ur6q",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260927-211135-2toc",
       "title": "R A D E E",
       "commanders": [
