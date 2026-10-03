@@ -1,9 +1,37 @@
 {
   "colorPalette": "violet-purple",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261002-221638-o9jy",
+      "title": "Mithril Footman",
+      "commanders": [
+        "Mithril Footman"
+      ],
+      "guild": {
+        "id": "B4D4D616-092F-4843-8499-607B795FF247",
+        "name": "Death Dealers Of War",
+        "tag": "DDoW"
+      },
+      "dateStart": "2026-10-03T02:16:38.000Z",
+      "dateEnd": "2026-10-03T03:04:25.931Z",
+      "dateLabel": "10/2/2026, 10:16:38 PM - 10/2/2026, 11:04:25 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261002-221638-o9jy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 19
+      }
+    },
     {
       "id": "20260928-204922-ur6q",
       "title": "R A D E E",
