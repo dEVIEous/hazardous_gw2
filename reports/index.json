@@ -1,9 +1,37 @@
 {
   "colorPalette": "violet-purple",
-  "axiTheme": "default",
+  "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261002-231634-eb3u",
+      "title": "Platinum Recruit",
+      "commanders": [
+        "Platinum Recruit"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-10-03T03:16:34.000Z",
+      "dateEnd": "2026-10-03T04:05:24.174Z",
+      "dateLabel": "10/2/2026, 11:16:34 PM - 10/3/2026, 12:05:24 AM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261002-231634-eb3u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 20
+      }
+    },
     {
       "id": "20261002-231634-zxfq",
       "title": "Platinum Recruit",
