@@ -3,7 +3,40 @@
   "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261007-202359-0f3g",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-10-08T00:23:59.000Z",
+      "dateEnd": "2026-10-08T01:26:02.213Z",
+      "dateLabel": "10/7/2026, 8:23:59 PM - 10/7/2026, 9:26:02 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261007-202359-0f3g",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20261002-231634-eb3u",
       "title": "Platinum Recruit",
