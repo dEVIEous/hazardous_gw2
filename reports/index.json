@@ -5,9 +5,39 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-201043-26mj",
+      "title": "Geira Niell, R A D E E",
+      "commanders": [
+        "Geira Niell",
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "9F02DC40-A030-ED11-81AC-95DFE50946EB",
+        "name": "Wölves Of Wär",
+        "tag": "PACK"
+      },
+      "dateStart": "2026-10-19T00:10:43.000Z",
+      "dateEnd": "2026-10-19T01:00:59.760Z",
+      "dateLabel": "10/18/2026, 8:10:43 PM - 10/18/2026, 9:00:59 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261018-201043-26mj",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 49
+      }
+    },
     {
       "id": "20261016-231500-oc1e",
       "title": "Silver Legend",
