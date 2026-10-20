@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261019-201638-mhoa",
+      "title": "R A D E E, Salazierthaous",
+      "commanders": [
+        "R A D E E",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-10-20T00:16:38.000Z",
+      "dateEnd": "2026-10-20T01:08:45.142Z",
+      "dateLabel": "10/19/2026, 8:16:38 PM - 10/19/2026, 9:08:45 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261019-201638-mhoa",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261018-211033-6g59",
       "title": "R A D E E",
       "commanders": [
