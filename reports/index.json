@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261021-202435-hqh6",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-10-22T00:24:35.000Z",
+      "dateEnd": "2026-10-22T01:22:16.881Z",
+      "dateLabel": "10/21/2026, 8:24:35 PM - 10/21/2026, 9:22:16 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261021-202435-hqh6",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0.88,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20261019-201638-mhoa",
       "title": "R A D E E, Salazierthaous",
       "commanders": [
