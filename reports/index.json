@@ -5,9 +5,49 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261028-201057-4nre",
+      "title": "R A D E E, Salazierthaous",
+      "commanders": [
+        "R A D E E",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-10-29T00:10:57.000Z",
+      "dateEnd": "2026-10-29T01:15:28.633Z",
+      "dateLabel": "10/28/2026, 8:10:57 PM - 10/28/2026, 9:15:28 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261028-201057-4nre",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0.9565217391304348,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20261026-203019-k9fk",
       "title": "Ineriouse Sly, R A D E E",
