@@ -1,13 +1,47 @@
 {
   "colorPalette": "violet-purple",
-  "axiTheme": "flat",
+  "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.24.1"
   },
   "entries": [
+    {
+      "id": "20261111-172213-34ng",
+      "title": "Salazierthaous",
+      "commanders": [
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-11-12T01:22:13.000Z",
+      "dateEnd": "2026-11-12T02:40:13.137Z",
+      "dateLabel": "11/11/2026, 5:22:13 PM - 11/11/2026, 6:40:13 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261111-172213-34ng",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20261109-201336-jt2u",
       "title": "Salazierthaous",
