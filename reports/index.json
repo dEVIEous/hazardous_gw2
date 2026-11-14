@@ -1,13 +1,42 @@
 {
   "colorPalette": "violet-purple",
-  "axiTheme": "default",
+  "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.24.1"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261113-211730-jq80",
+      "title": "Mesmer Twiska",
+      "commanders": [
+        "Mesmer Twiska"
+      ],
+      "guild": {
+        "id": "7C6BBFB8-6446-F011-81AC-95DFE50946EB",
+        "name": "Taking Damage Makes Me Wet",
+        "tag": "soak"
+      },
+      "dateStart": "2026-11-14T02:17:30.000Z",
+      "dateEnd": "2026-11-14T02:57:58.729Z",
+      "dateLabel": "11/13/2026, 9:17:30 PM - 11/13/2026, 9:57:58 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261113-211730-jq80",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 10
+      }
+    },
     {
       "id": "20261111-172213-34ng",
       "title": "Salazierthaous",
