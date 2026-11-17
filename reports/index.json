@@ -1,6 +1,6 @@
 {
   "colorPalette": "violet-purple",
-  "axiTheme": "flat",
+  "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
   "generator": {
@@ -8,6 +8,41 @@
     "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261116-171044-yavc",
+      "title": "R A D E E, Salazierthaous",
+      "commanders": [
+        "R A D E E",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-11-17T01:10:44.000Z",
+      "dateEnd": "2026-11-17T02:59:21.662Z",
+      "dateLabel": "11/16/2026, 5:10:44 PM - 11/16/2026, 6:59:21 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261116-171044-yavc",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 21,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20261113-222458-egtd",
       "title": "Platinum Veteran",
