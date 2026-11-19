@@ -1,6 +1,6 @@
 {
   "colorPalette": "violet-purple",
-  "axiTheme": "default",
+  "axiTheme": "flat",
   "glass": false,
   "glassSurfaces": false,
   "generator": {
@@ -8,6 +8,35 @@
     "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261118-201937-mc8i",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-11-19T01:19:37.000Z",
+      "dateEnd": "2026-11-19T02:05:26.183Z",
+      "dateLabel": "11/18/2026, 8:19:37 PM - 11/18/2026, 9:05:26 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261118-201937-mc8i",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261116-171044-yavc",
       "title": "R A D E E, Salazierthaous",
