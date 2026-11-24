@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261123-202720-3t5p",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-11-24T01:27:20.000Z",
+      "dateEnd": "2026-11-24T02:35:09.023Z",
+      "dateLabel": "11/23/2026, 8:27:20 PM - 11/23/2026, 9:35:09 PM",
+      "url": "https://dEVIEous.github.io/hazardous_gw2/?report=20261123-202720-3t5p",
+      "publishedBy": "dEVIEous",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 11,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261118-201937-mc8i",
       "title": "R A D E E",
       "commanders": [
